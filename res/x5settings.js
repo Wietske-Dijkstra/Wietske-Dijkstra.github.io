@@ -4,7 +4,6 @@
 		p = s.currentPath,
 		b = x.boot;
 
-	s.islocal = true;
 	b.push(function () {
 		x.setupDateTime();
 		x.imAccess.showLogout();
@@ -77,15 +76,5 @@
 
 	// Captcha
 	var codes = s.imCaptcha.offlineCodes;
-	codes[0] = { letter: 'E', path: 'captcha/imcpa_j27.gif'};
-	codes[1] = { letter: 'X', path: 'captcha/imcpa_zcw.gif'};
-	codes[2] = { letter: '7', path: 'captcha/imcpa_7g2.gif'};
-	codes[3] = { letter: '6', path: 'captcha/imcpa_suv.gif'};
-	codes[4] = { letter: 'W', path: 'captcha/imcpa_tsl.gif'};
-	codes[5] = { letter: 'X', path: 'captcha/imcpa_4yf.gif'};
-	codes[6] = { letter: 'A', path: 'captcha/imcpa_gzc.gif'};
-	codes[7] = { letter: 'U', path: 'captcha/imcpa_7f7.gif'};
-	codes[8] = { letter: 'L', path: 'captcha/imcpa_jzp.gif'};
-	codes[9] = { letter: '3', path: 'captcha/imcpa_dj6.gif'};
 	s.loaded = true;
 })( _jq, x5engine );

@@ -1,440 +1,494 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/index.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/index.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/brievenspoor.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/brievenspoor.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/borstkankerlogboek.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/borstkankerlogboek.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/sponsorloop-mama-cash.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/sponsorloop-mama-cash.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/imsitemap.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/imsitemap.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/agenda-1.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/agenda-1.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/contact.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/contact.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/scheve-borst.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/scheve-borst.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/een-echte-afwijking.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/een-echte-afwijking.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/het-licht-gaat-uit.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/het-licht-gaat-uit.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/-altijd-spannend.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/-altijd-spannend.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/102-jaar-oud.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/102-jaar-oud.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/geen-goed-nieuws.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/geen-goed-nieuws.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/de-tweede-mening.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/de-tweede-mening.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/geen-uitzaaiingen.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/geen-uitzaaiingen.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/-ik-was-liever-ergens-anders-geweest-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/-ik-was-liever-ergens-anders-geweest-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/bezoek-aan-chirurg.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/bezoek-aan-chirurg.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/vreemde-ziekte.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/vreemde-ziekte.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/donderdag-start-chemokuur.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/donderdag-start-chemokuur.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/eerste-kuur-valt-mee.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/eerste-kuur-valt-mee.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/kort-haar-en-zo.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/kort-haar-en-zo.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/tweede-chemo-zit-erin.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/tweede-chemo-zit-erin.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/femme-fatale.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/femme-fatale.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/nummer-drie.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/nummer-drie.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/over-de-helft.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/over-de-helft.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/vakantiepret.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/vakantiepret.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/nog-maar-een-te-gaan.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/nog-maar-een-te-gaan.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/tatoeages.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/tatoeages.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/de-laatste-zit-erin.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/de-laatste-zit-erin.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/woede-en-opluchting.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/woede-en-opluchting.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/aftellen.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/aftellen.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/vreemde-dagen.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/vreemde-dagen.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/start-van-het-leven-na-de-kanker.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/start-van-het-leven-na-de-kanker.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/het-halskliertje.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/het-halskliertje.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/herstel-en-balans.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/herstel-en-balans.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/einde-van-een-kankerjaar.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/einde-van-een-kankerjaar.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/verwerkingsstrategieen.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/verwerkingsstrategieen.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/alsof-ik-beter-ben.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/alsof-ik-beter-ben.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/hartgrondige-hypochonder-viert-feest.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/hartgrondige-hypochonder-viert-feest.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/hoe-vertel-ik-jou-...html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/hoe-vertel-ik-jou-...html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/reacties.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/reacties.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/presentatie.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/presentatie.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/interviews.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/interviews.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/goede-vrijdag.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/goede-vrijdag.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/twee-jaar-eerder,-9-april-2008.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/twee-jaar-eerder,-9-april-2008.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/goede-doel--14-juni-2014-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/goede-doel--14-juni-2014-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/superfit--17-juli-2014-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/superfit--17-juli-2014-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/vakantieloopje--17-augustus-2014-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/vakantieloopje--17-augustus-2014-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/duiven--8-september-2014-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/duiven--8-september-2014-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/voldaan--21-september-2014-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/voldaan--21-september-2014-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/alvleesklierberichten.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/alvleesklierberichten.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/onderzoek.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/onderzoek.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/de-uitslag-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/de-uitslag-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/parijse-boefjes.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/parijse-boefjes.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/een-behandeling.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/een-behandeling.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/hoera-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/hoera-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/een-beetje-hoop.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/een-beetje-hoop.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/slecht-nieuws.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/slecht-nieuws.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/stand-van-zaken.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/stand-van-zaken.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/pietenbal.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/pietenbal.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/geen-bikkel.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/geen-bikkel.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/een-kort-bericht.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/een-kort-bericht.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/folfirinox-2.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/folfirinox-2.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/ziektewinst.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/ziektewinst.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/nanoknife.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/nanoknife.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/moerman,-blue-monday-en-pedofilie.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/moerman,-blue-monday-en-pedofilie.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/-tingeling,-daar-komt-de-schillenboer-.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/-tingeling,-daar-komt-de-schillenboer-.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/het-kon-slechter.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/het-kon-slechter.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/i-amsterdam.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/i-amsterdam.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/keuzestressitus.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/keuzestressitus.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/schietschijf.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/schietschijf.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/maag-vol-soep.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/maag-vol-soep.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://members.ziggo.nl/wedijkstra/mitakel.html</loc>
-		<lastmod>2017-03-10</lastmod>
+		<loc>http://www.wietskedijkstra.com/mirakel.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/voorwoord.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/voor-wietske,-om-wietske.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/de-dag-die-je-wist-dat-zou-gaan-komen.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/uitroeptekens-.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/aandikken.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/stofjes.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/gewoon-doorfietsen.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/een-heel-ander-geluid.html</loc>
+		<lastmod>2023-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.wietskedijkstra.com/gedragen.html</loc>
+		<lastmod>2023-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>

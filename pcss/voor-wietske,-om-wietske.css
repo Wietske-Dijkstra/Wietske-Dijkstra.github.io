@@ -1,6 +1,6 @@
 h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 936px;}
-#imCell_1 { display: block; position: relative; overflow: hidden; width: 944px; min-height: 386px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
-#imCellStyle_1 { position: relative; width: 938px; min-height: 380px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 944px; min-height: 1029px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_1 { position: relative; width: 938px; min-height: 1023px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
 #imCellStyleGraphics_1 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
 #imTextObject_1_tab0 { position: relative; line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
 #imTextObject_1_tab0 ul { list-style: disc; margin: 0px; padding: 0px; }
@@ -18,6 +18,7 @@ h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 936px;}
 #imTextObject_1_tab0 .cf2 { color: #FFFFFF; }
 #imTextObject_1_tab0 .cf3 { color: #000000; }
 #imTextObject_1_tab0 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_1_tab0 .fs28 { vertical-align: baseline; font-size: 14pt; line-height: 25px;}
 #imTextObject_1_tab0 .cb1 { background-color: #000000; }
 #imTextObject_1_tab0 .cb2 { background-color: transparent; }
 #imTextObject_1_tab0 .cb3 { background-color: #000000; }
